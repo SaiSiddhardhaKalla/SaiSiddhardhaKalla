@@ -16,7 +16,8 @@
 
 ## Projects
 ### Rajasthan Mission Antyodaya Dashboard
-Built using ploty dash and hosted on heroku. Access the web-app [here](https://rj-missionantyodaya-2020.herokuapp.com)
+Built using ploty dash and hosted on heroku. Access the web-app [here](https://rj-missionantyodaya-2020.herokuapp.com).
+
 <!--
 **SaiSiddhardhaKalla/SaiSiddhardhaKalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
