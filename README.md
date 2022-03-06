@@ -5,6 +5,7 @@
 ### Data Analyst at The Ballot House
 * Creating Economic Dashboards using **`plotly-dash`** and **`streamlit`** 
 * Performing Poll Analysis
+* Tableau for data visulaisation
 
 ## Education
 ### The Australian National University
@@ -13,7 +14,9 @@
 
 ### Bachelor of Economics (Feb 2017 - Dec 2019)
 
-
+## Projects
+### Rajasthan Mission Antyodaya Dashboard
+Built using ploty dash and hosted on heroku. Access the web-app on https://rj-missionantyodaya-2020.herokuapp.com 
 <!--
 **SaiSiddhardhaKalla/SaiSiddhardhaKalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
