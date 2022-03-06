@@ -2,7 +2,7 @@
 #### Hi there 👋, I'm Sai!
 
 ## Work Experience
-### Data Analyst at The Ballot House
+### Data Analyst at The Ballot House (Aug 2021 - )
 * Creating Economic Dashboards using **`plotly-dash`** and **`streamlit`** 
 * Performing Poll Analysis
 * Tableau for data visulaisation
