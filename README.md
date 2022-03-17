@@ -1,23 +1,23 @@
 # Sai Sidddhardha Kalla
-#### Hi there 👋, I'm Sai!
+#### Hi there 👋, I'm Sai! 🙋🏽‍♂️
 
 ## Work Experience
-### Data Analyst at The Ballot House (Aug 2021 - )
+### Data Analyst at The Ballot House (Aug 2021 - ) 🇮🇳👨🏽‍💻
 * Creating Economic Dashboards using **`plotly-dash`** and **`streamlit`** 
 * Performing Poll Analysis
 * Tableau for data visulaisation
 
 ## Education
-### The Australian National University
-### Master of Economic Policy (Feb 2020 - )
+### The Australian National University 🇦🇺 
+### Master of Economic Policy (Feb 2020 - ) 🎓
 * Studying advanced Microeconomics and Econometrics
 
 ### Bachelor of Economics (Feb 2017 - Dec 2019)
 
 ## Projects
-### Rajasthan Mission Antyodaya Dashboard
+### Rajasthan Mission Antyodaya Dashboard 
 Built using ploty dash and hosted on heroku. Access the web-app [here](https://rj-missionantyodaya-2020.herokuapp.com).
-### National Family Healty Survey 5
+### National Family Healty Survey 5 ⚕️
 Scraped and converted data in to CSVs district-wise. Access it [here](https://github.com/SaiSiddhardhaKalla/NFHS).
 
 <!--
