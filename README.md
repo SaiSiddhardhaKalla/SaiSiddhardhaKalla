@@ -9,12 +9,13 @@
 
 ## Education
 ### The Australian National University 🇦🇺 
-### Master of Economic Policy (Feb 2020 - ) 🎓 👨🏽‍🎓
+#### Master of Economic Policy (Feb 2020 - ) 🎓 👨🏽‍🎓
 * Studying advanced Microeconomics and Econometrics
 
-### Bachelor of Economics (Feb 2017 - Dec 2019) 🎓 📖
+#### Bachelor of Economics (Feb 2017 - Dec 2019) 🎓 📖
 
-### International Baccalaureate Diploma Programme (2014-2016)
+### Hyderabad, India 🇮🇳
+#### International Baccalaureate Diploma Programme (2014-2016) 📚
 
 ## Projects
 ### Rajasthan Mission Antyodaya Dashboard 
