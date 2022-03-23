@@ -14,6 +14,8 @@
 
 ### Bachelor of Economics (Feb 2017 - Dec 2019) 🎓 📖
 <br>
+
+
 ### International Baccalaureate Diploma Programme (2014-2016)
 
 ## Projects
