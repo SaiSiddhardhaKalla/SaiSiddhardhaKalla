@@ -1,7 +1,7 @@
 # Sai Sidddhardha Kalla
 #### Hi there 👋, I'm Sai! 🙋🏽‍♂️ 
 <br/>
-I ❤️ kittens 🐱, manga 🎑 and gaming 🎮
+I ❤️ kittens 🐱, manga 🎑 and gaming 🎮<br/>
 <br/>
 📫 How to reach me:<br/>
 <br/>
