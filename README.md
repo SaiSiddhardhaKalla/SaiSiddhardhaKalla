@@ -22,8 +22,7 @@
 Built using ploty dash and hosted on heroku. Access the web-app [here](https://rj-missionantyodaya-2020.herokuapp.com).
 ### National Family Healty Survey 5 ⚕️
 Scraped and converted data in to CSVs district-wise. Access it [here](https://github.com/SaiSiddhardhaKalla/NFHS).
-
-- 🔭 I’m currently working on building a dashboard for NFHS 5 data
+🔭 Built a dashboard for [NFHS 5 data](https://nfhs.herokuapp.com).
 <!--
 **SaiSiddhardhaKalla/SaiSiddhardhaKalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
