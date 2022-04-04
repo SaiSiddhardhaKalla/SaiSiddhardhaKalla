@@ -1,5 +1,8 @@
 # Sai Sidddhardha Kalla
 #### Hi there 👋, I'm Sai! 🙋🏽‍♂️ 
+<br/>
+I ❤️ kittens 🐱, manga 🎑 and gaming 🎮
+<br/>
 📫 How to reach me:<br/>
 <br/>
 <a href="https://www.linkedin.com/in/sai-siddhardha-kalla/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg" width="40" height="40"/></a> <a href="https://www.instagram.com/super._.sidi/" target="_blank"><img alt="Instagram" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/instagram-icon.svg" width="40" height="40"/></a>
