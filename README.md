@@ -37,7 +37,7 @@ I ❤️ kittens 🐱, manga 🎑 and gaming 🎮<br/>
 * Scraped and converted data in to CSVs district-wise. Access it [here](https://github.com/SaiSiddhardhaKalla/NFHS).
 * 🔭 Built a dashboard for [NFHS 5 data](https://nfhs.herokuapp.com).
 ### Lok Sabha Elections Summary 🗳
-* A simple [dashboard] (https://indiapcstats.herokuapp.com) displaying Lok Sabha election results for the past 3 elections. 
+* A simple [dashboard](https://indiapcstats.herokuapp.com) displaying Lok Sabha election results for the past 3 elections. 
 <br/>
 Currently working on India-wide Mission Antyodaya Data.
 <!--
